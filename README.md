@@ -1,2 +1,4 @@
-# Baekjoon_study
-백준 문제 풀이
+# Algorithm Study
++ Baekjoon & Programmers
++ Language
+  + Python
